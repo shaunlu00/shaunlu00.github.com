@@ -107,7 +107,7 @@ layout: default
 
 {% if site.netease_comment %}
 <!-- 网易云跟帖JS代码 start -->
-<script src="https://img1.cache.netease.com/f2e/tie/yun/sdk/loader.js"></script>
+<script src="/js/loader.js"></script>
 <script>
   var cloudTieConfig = {
     url: document.location.href, 
@@ -154,7 +154,7 @@ layout: default
 </script>
 <!-- anchor-js, Doc:http://bryanbraun.github.io/anchorjs/ -->
 <script>
-    async("//cdnjs.cloudflare.com/ajax/libs/anchor-js/1.1.1/anchor.min.js",function(){
+    async("/js/anchor.min.js",function(){
         anchors.options = {
           visible: 'always',
           placement: 'right',
