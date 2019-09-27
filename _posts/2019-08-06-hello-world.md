@@ -1,14 +1,13 @@
 ---
 layout: post
 title: "Hello World"
-subtitle: 'Very first post'
+subtitle: 'Blog test'
 author: "Shaun"
 header-style: text
-tags:
-  - Life
+tags: ["Other"]
 ---
 
-Yo Yo
+This is the header
 
 ---
 
