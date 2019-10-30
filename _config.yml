@@ -78,7 +78,7 @@ ga_domain: huangxuan.me
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "Smile, breath and go slowly<br>前进不留遗憾，生活便是美好"
+sidebar-about-description: "Smile, breath and go slowly<br>牛奶奶喝牛奶"
 sidebar-avatar: /img/avatar-shaun-baby.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
