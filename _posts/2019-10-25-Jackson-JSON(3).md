@@ -10,9 +10,9 @@ tags: ["Java Utils"]
 Jackson is a very popular java library to serialize/deserialize JSON. 
 This tutorial illustrates common solutions while marshalling and unmarshalling JSON.
 
-[-> (1) Jackson Annotations](http://shaunlu.com/2019/09/26/Jackson-JSON(1)/)  
-[-> (2) Collection/Array, Polymorphic Type](http://shaunlu.com/2019/10/12/Jackson-JSON(2)/)  
-[-> (3) Enum, Date, JsonNode](http://shaunlu.com/2019/10/25/Jackson-JSON(3)/)  
+[-> (1) Jackson Annotations]({{ site.baseurl }}/2019/09/26/Jackson-JSON(1)/)  
+[-> (2) Collection/Array, Polymorphic Type]({{ site.baseurl }}/2019/10/12/Jackson-JSON(2)/)  
+[-> (3) Enum, Date, JsonNode]({{ site.baseurl }}/2019/10/25/Jackson-JSON(3)/)   
 
 You can find all examples at [https://github.com/shaunlu00/java-tutorial-jackson](https://github.com/shaunlu00/java-tutorial-jackson)
 
